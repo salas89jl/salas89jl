@@ -22,7 +22,6 @@
     &nbsp;&nbsp;&nbsp;
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     &nbsp;&nbsp;&nbsp;
-   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
   </div>
   <div>
     <h4> Frameworks </h4>
